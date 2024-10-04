@@ -1,0 +1,101 @@
+[
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/transform_exercise2/linux/x86_64/release/src/get_started/6.transform/exercise2.cpp.o", "src/get_started/6.transform/exercise2.cpp"],
+  "file": "src/get_started/6.transform/exercise2.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/transform/linux/x86_64/release/src/get_started/6.transform/6.transform.cpp.o", "src/get_started/6.transform/6.transform.cpp"],
+  "file": "src/get_started/6.transform/6.transform.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-DNDEBUG", "-o", "build/.objs/hello_glsl/linux/x86_64/release/src/get_started/hello_glsl/hello_glsl.cpp.o", "src/get_started/hello_glsl/hello_glsl.cpp"],
+  "file": "src/get_started/hello_glsl/hello_glsl.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/camera_deltatime/linux/x86_64/release/src/get_started/8.camera/camera_deltatime.cpp.o", "src/get_started/8.camera/camera_deltatime.cpp"],
+  "file": "src/get_started/8.camera/camera_deltatime.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/camera/linux/x86_64/release/src/get_started/8.camera/camera.cpp.o", "src/get_started/8.camera/camera.cpp"],
+  "file": "src/get_started/8.camera/camera.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-DNDEBUG", "-o", "build/.objs/5texture/linux/x86_64/release/src/get_started/5.texture/5.texture.cpp.o", "src/get_started/5.texture/5.texture.cpp"],
+  "file": "src/get_started/5.texture/5.texture.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-DNDEBUG", "-o", "build/.objs/shaders_uniform/linux/x86_64/release/src/get_started/shaders_uniform/shaders_uniform.cpp.o", "src/get_started/shaders_uniform/shaders_uniform.cpp"],
+  "file": "src/get_started/shaders_uniform/shaders_uniform.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-DNDEBUG", "-o", "build/.objs/5texture_exercise1/linux/x86_64/release/src/get_started/5.texture/5.texture_exercise1.cpp.o", "src/get_started/5.texture/5.texture_exercise1.cpp"],
+  "file": "src/get_started/5.texture/5.texture_exercise1.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-DNDEBUG", "-o", "build/.objs/4.1shader_exercise3/linux/x86_64/release/src/get_started/4.1shader_exercise3/4.1shader_exercise3.cpp.o", "src/get_started/4.1shader_exercise3/4.1shader_exercise3.cpp"],
+  "file": "src/get_started/4.1shader_exercise3/4.1shader_exercise3.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/camera_mouse/linux/x86_64/release/src/get_started/8.camera/camera_mouse.cpp.o", "src/get_started/8.camera/camera_mouse.cpp"],
+  "file": "src/get_started/8.camera/camera_mouse.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-DNDEBUG", "-o", "build/.objs/5texture_exercise2/linux/x86_64/release/src/get_started/5.texture/5.texture_exercise2.cpp.o", "src/get_started/5.texture/5.texture_exercise2.cpp"],
+  "file": "src/get_started/5.texture/5.texture_exercise2.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-DNDEBUG", "-o", "build/.objs/4.1shader_exercise1/linux/x86_64/release/src/get_started/4.1shader_exercise1/4.1shader_exercise1.cpp.o", "src/get_started/4.1shader_exercise1/4.1shader_exercise1.cpp"],
+  "file": "src/get_started/4.1shader_exercise1/4.1shader_exercise1.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-DNDEBUG", "-o", "build/.objs/5texture_exercise3/linux/x86_64/release/src/get_started/5.texture/5.texture_exercise3.cpp.o", "src/get_started/5.texture/5.texture_exercise3.cpp"],
+  "file": "src/get_started/5.texture/5.texture_exercise3.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-DNDEBUG", "-o", "build/.objs/5texture_exercise4/linux/x86_64/release/src/get_started/5.texture/5.texture_exercise4.cpp.o", "src/get_started/5.texture/5.texture_exercise4.cpp"],
+  "file": "src/get_started/5.texture/5.texture_exercise4.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-DNDEBUG", "-o", "build/.objs/4.1shader_exercise2/linux/x86_64/release/src/get_started/4.1shader_exercise2/4.1shader_execise2.cpp.o", "src/get_started/4.1shader_exercise2/4.1shader_execise2.cpp"],
+  "file": "src/get_started/4.1shader_exercise2/4.1shader_execise2.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/coordinate/linux/x86_64/release/src/get_started/7.coordinate/coordinate.cpp.o", "src/get_started/7.coordinate/coordinate.cpp"],
+  "file": "src/get_started/7.coordinate/coordinate.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-DNDEBUG", "-o", "build/.objs/shaders_interpolation/linux/x86_64/release/src/get_started/3.2shaders_interpolation/shaders_interpolation.cpp.o", "src/get_started/3.2shaders_interpolation/shaders_interpolation.cpp"],
+  "file": "src/get_started/3.2shaders_interpolation/shaders_interpolation.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/window/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-DNDEBUG", "-o", "build/.objs/hello_triangle_index/linux/x86_64/release/src/get_started/hello_triangle_index/hello_triangle_index.cpp.o", "src/get_started/hello_triangle_index/hello_triangle_index.cpp"],
+  "file": "src/get_started/hello_triangle_index/hello_triangle_index.cpp"
+},
+{
+  "directory": "/home/momo/Project/cpp/opengl/learnopengl",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-DGLFW_INCLUDE_NONE", "-isystem", "/home/momo/.xmake/packages/f/fmt/11.0.2/8f2759149dd24c4c95ee980930242ead/include", "-isystem", "/home/momo/.xmake/packages/g/glad/v0.1.36/f31cd39a27f14bdc8dd8413392e1ee53/include", "-isystem", "/home/momo/.xmake/packages/g/glfw/3.4/4c3c72af70fd4599a3038fc662af9c28/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include", "-isystem", "/home/momo/.xmake/packages/s/stb/2024.06.01/1411cb81068a4769b53cf2d71650c82b/include/stb", "-isystem", "/home/momo/.xmake/packages/g/glm/1.0.1/1781f3ac6d8141628505a9ae557cd017/include", "-DNDEBUG", "-o", "build/.objs/camera_move/linux/x86_64/release/src/get_started/8.camera/camera_move.cpp.o", "src/get_started/8.camera/camera_move.cpp"],
+  "file": "src/get_started/8.camera/camera_move.cpp"
+}]

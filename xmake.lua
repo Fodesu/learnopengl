@@ -3,11 +3,23 @@ add_rules("plugin.compile_commands.autoupdate")
 
 add_requires("fmt")
 add_requires("glfw", "glad", "glm")
+add_requires("stb")
+set_rundir("$(projectdir)")
 
-target("learnopengl")
+on_config(function(target)
+	target:add("includedirs", "include")
+end)
+
+target("window")
 	set_kind("binary")
-	add_files("src/*.cpp")
-	add_packages("fmt")
+	add_files("src/main.cpp")
+	add_packages("fmt", "glad", "glfw", "glm")
+
+includes("src/get_started")
+
+
+
+
 --
 -- If you want to known more usage about xmake, please see https://xmake.io
 --
